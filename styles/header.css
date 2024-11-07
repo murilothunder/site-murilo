@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    align-items: center;
+    column-gap: 64px;
+    padding: 50px;
+}
+
+img{
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+}
+.center{
+    height: auto;
+    text-align: center;
+}
+
+.navition{
+    display: flex;
+    align-items: center;
+    column-gap: 48px;
+    padding: 48px;
+}
+
+.navigation_link{
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
